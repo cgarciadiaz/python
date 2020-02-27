@@ -17,4 +17,5 @@ time.sleep(5) # Let the user actually see something!
 
 driver.close()
 
-#Message: 'webdriver' executable may have wrong permissions.
+#Message: 'webdriver' executable may have wrong permissions. 
+
